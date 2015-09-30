@@ -1,0 +1,4 @@
+-cp src
+-swf bin/hello.swf
+-main HelloWorld
+--times
